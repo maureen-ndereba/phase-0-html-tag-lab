@@ -3,6 +3,7 @@
 ## Learning Goals
 
 - Code an `h1` tag
+
 - Set the inner text of the `h1` to `Hello, World!`
 
 ## Introduction
